@@ -1,10 +1,10 @@
 # Intro figures : Last modified
 - Figure A.1 : 10/02/2022
-- Figure A.2 : 10/02/2022
+- Figure A.2 : 10/02/2022 *
 - Figure A.3 : 13/07/2022
 - Figure A.4 : 13/07/2022
 - Figure A.5 : 11/02/2022
-- Figure A.6 : 10/02/2022
+- Figure A.6 : 10/02/2022 *
 - Figure A.7 : 11/02/2022
 - Figure A.8 : 10/02/2022
 - Figure A.9 : 27/08/2022 *
@@ -31,3 +31,5 @@
 - Table 3.1  : 27/08/2022 *
 - Table 3.2  : 27/08/2022 *
 - Table 3.3 :  27/08/2022 *
+- Installation efficiency figure : 5/9/2022
+- Maintenance figure : 5/9/2022

@@ -12,7 +12,7 @@
 # Chapter 1 figures : last modified
 - Figure 1.2 : 13/02/2022
 - Figure 1.3 : 27/08/2022 *
-- Figure 1.5 : sarta will upload it
+- Figure 1.5 : 29/08/2022 **
 - Figure 1.6 : 13/02/2022
 - Figure 1.7 : 04/03/2022
 - Table 1.1 : 13/02/2022
